@@ -1,0 +1,12 @@
+{
+    "Informatics Building": {
+        "status": "Closed",
+        "capacity": 100,
+        "occupied": 80
+    },
+    "Rectorate Building": {
+        "status": "Closed",
+        "capacity": 50,
+        "occupied": 50
+    }
+}
