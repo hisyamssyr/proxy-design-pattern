@@ -1,6 +1,6 @@
 {
     "Informatics Building": {
-        "status": "Closed",
+        "status": "Open",
         "capacity": 100,
         "occupied": 80
     },
